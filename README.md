@@ -1,1 +1,1 @@
-# Kaggle_Project-Banking-Churn-
+# My-Projects
